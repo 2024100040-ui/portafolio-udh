@@ -1,0 +1,4 @@
+
+1. Programar
+2. Crear un repositorio en GitHub.
+3. POO
